@@ -14,7 +14,7 @@
 The data for this project is sourced from the Kaggle dataset:  
 ◦ **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-## 📌 Findings and Conclusion
+## Findings and Conclusion
 
 ● **Content Distribution:**  
   The dataset includes a diverse range of movies and TV shows with varying ratings and genres.
